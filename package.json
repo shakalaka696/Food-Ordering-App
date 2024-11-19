@@ -1,0 +1,23 @@
+{
+  "name": "food-app",
+  "version": "1.0.0",
+  "main": "App.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shakalaka696/Food-Ordering-App.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shakalaka696/Food-Ordering-App/issues"
+  },
+  "homepage": "https://github.com/shakalaka696/Food-Ordering-App#readme",
+  "description": "",
+  "dependencies": {
+    "parcel": "^2.13.0",
+    "react-dom": "^18.3.1"
+  }
+}
